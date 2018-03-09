@@ -1,0 +1,20 @@
+body{
+  background-image: url("../images/grid.jpg");
+  font-family: 'Open Sans', sans-serif;
+  color: rgb(50, 50, 50);
+}
+
+h1{
+  font-family: 'Arvo', serif;
+  font-size: 50px;
+  color: #11468C;
+}
+
+a{
+  color: #5A86BF;
+  text-decoration: none
+}
+
+a:hover{
+  color: #11468C;
+}
